@@ -1,0 +1,33 @@
+CUSTOMER SUPPORT FAQ
+
+Category: Returns
+Question: What is the return policy?
+Answer: Customers can request a return within 7 days of delivery. The product must be unused and in its original packaging.
+
+Category: Refunds
+Question: How long does a refund take?
+Answer: After the return is approved, the refund is processed within 5 to 7 business days. The time taken by the payment provider may vary.
+
+Category: Delivery
+Question: How long does delivery take?
+Answer: Standard delivery usually takes 3 to 5 business days after the order is confirmed.
+
+Category: Damaged Products
+Question: What should I do if my product arrives damaged?
+Answer: Contact customer support within 48 hours of delivery. Provide your order details and photographs of the damaged product.
+
+Category: Payments
+Question: Which payment methods are accepted?
+Answer: The example store accepts credit cards, debit cards, and UPI payments.
+
+Category: Order Cancellation
+Question: Can I cancel my order?
+Answer: Orders can be cancelled before they are dispatched. Once dispatched, customers should contact customer support for assistance.
+
+Category: Contact Support
+Question: How can I contact customer support?
+Answer: Customers can contact support through the help section of the website. Support staff can assist with order, delivery, payment, and return issues.
+
+Category: Warranty
+Question: What is the warranty period?
+Answer: Please contact customer support to confirm the warranty period for your product.
